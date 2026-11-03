@@ -18,6 +18,11 @@ Database-to-Word-to-InDesign production, formatting automation, and detailed typ
 
 Access database work connecting inventory items, photographs, cropped images, and publication selections. Contemporary correspondence and recovered relationship data document the operational work and distinguish it from broader redesign proposals.
 
+Additional Pirages exhibits:
+
+- [Website requirements and evaluation](https://github.com/veedgo/pirages-systems-workflow/blob/main/WEBSITE_REQUIREMENTS.md) — Translating office practices into requirements, gathering colleagues' input, and researching the proposed technology.
+- [Shared image access for a private client](https://github.com/veedgo/pirages-systems-workflow/blob/main/SHARED_IMAGE_ACCESS.md) — Organizing photographs and supporting material for remote review and download.
+
 ## Areas of experience
 
 - Data quality, reconciliation, and records maintenance
