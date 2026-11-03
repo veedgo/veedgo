@@ -1,16 +1,29 @@
-## Hi there 👋
+# David Clark
 
-<!--
-**veedgo/veedgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with operational data, records, and publication workflows. My experience includes inventory systems, database maintenance, data validation, photography, and catalogue production.
 
-Here are some ideas to get you started:
+I look for the relationships behind a problem: how an item is identified, where its information travels, and what needs to be checked when something changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### [Crash-data mapping and validation](https://github.com/veedgo/gears-crash-mapping-case-study)
+
+A case study of mapping and validating Georgia crash records, with documented work and independent audit evidence.
+
+### [Pirages catalogue design](https://github.com/veedgo/pirages-catalogue-design)
+
+Database-to-Word-to-InDesign production, formatting automation, and detailed typesetting for two substantial antiquarian book catalogues. The exhibit shows how I built on Pirages' established conventions and refined individual pages through many hours of adjustment.
+
+### [Pirages systems and workflow](https://github.com/veedgo/pirages-systems-workflow)
+
+Access database work connecting inventory items, photographs, cropped images, and publication selections. Contemporary correspondence and recovered relationship data document the operational work and distinguish it from broader redesign proposals.
+
+## Areas of experience
+
+- Data quality, reconciliation, and records maintenance
+- Inventory information and stable item identification
+- Microsoft Access, queries, and Excel workflows
+- Image indexing, retrieval, and publication selection
+- InDesign, typography, and catalogue production
+
+These exhibits bring together surviving work, contemporary documentation, and clearly identified reconstruction.
